@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ameribancsales.net/sitemap.xml
